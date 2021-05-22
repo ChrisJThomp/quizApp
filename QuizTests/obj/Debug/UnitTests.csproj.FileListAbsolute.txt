@@ -1,0 +1,17 @@
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\QuizTests.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\QuizTests.pdb
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\quizAvasure.exe
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\quizAvasure.pdb
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\quizAvasure.exe.config
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\obj\Debug\QuizTests.dll
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\QuizTests\obj\Debug\QuizTests.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\bin\Debug\quizAvasure.exe.config
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\bin\Debug\quizAvasure.exe
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\bin\Debug\quizAvasure.pdb
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\obj\Debug\quizAvasure.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\obj\Debug\quizAvasure.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\obj\Debug\quizAvasure.exe
+C:\Users\Christian\Desktop\ChrisitianThompsonAvaSure\repo\quizAvasure\quizAvasure\obj\Debug\quizAvasure.pdb
